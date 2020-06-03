@@ -9,4 +9,5 @@
   ],
   "website": "http://github.com/heroku/go-getting-started",
   "repository": "http://github.com/heroku/go-getting-started"
+  "addons": ["heroku-postgresql:hobby-dev", "papertrail:choklad", "newrelic:wayne"]
 }
